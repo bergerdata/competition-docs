@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team Competition – Reference</title>
+    <link>/docs/reference/</link>
+    <description>Recent content in Reference on Team Competition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="/docs/reference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Content Types</title>
+      <link>/docs/reference/content-types/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/reference/content-types/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Jeder Seiteninhalt besitzt einen Typ. Der Typ bestimmt wie der Inhalt dargestellt werden soll.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
