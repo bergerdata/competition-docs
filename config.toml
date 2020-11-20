@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "competition-docs/"
 title = "Team Competition"
 
 enableRobotsTXT = true
