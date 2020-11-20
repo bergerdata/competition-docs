@@ -1,4 +1,4 @@
-baseURL = "competition-docs/"
+baseURL = "https://bergerdata.github.io/competition-docs/"
 title = "Team Competition"
 
 enableRobotsTXT = true
