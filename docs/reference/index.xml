@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Team Competition – Reference</title>
-    <link>/docs/reference/</link>
+    <link>competition-docs/docs/reference/</link>
     <description>Recent content in Reference on Team Competition</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/docs/reference/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="competition-docs/docs/reference/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Content Types</title>
-      <link>/docs/reference/content-types/</link>
+      <link>competition-docs/docs/reference/content-types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/reference/content-types/</guid>
+      <guid>competition-docs/docs/reference/content-types/</guid>
       <description>
         
         
