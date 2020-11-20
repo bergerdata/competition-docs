@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Team Competition – Content Types</title>
-    <link>competition-docs/docs/reference/content-types/</link>
+    <link>https://bergerdata.github.io/competition-docs/docs/reference/content-types/</link>
     <description>Recent content in Content Types on Team Competition</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="competition-docs/docs/reference/content-types/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://bergerdata.github.io/competition-docs/docs/reference/content-types/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Question: Dropdown</title>
-      <link>competition-docs/docs/reference/content-types/question_dropdown/</link>
+      <link>https://bergerdata.github.io/competition-docs/docs/reference/content-types/question_dropdown/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>competition-docs/docs/reference/content-types/question_dropdown/</guid>
+      <guid>https://bergerdata.github.io/competition-docs/docs/reference/content-types/question_dropdown/</guid>
       <description>
         
         
@@ -33,7 +33,7 @@
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 710px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;competition-docs/competition-docs/docs/reference/content-types/question_dropdown/dropdown_hu451139ed022d9492ba13d72bb0749a07_126399_700x700_fit_catmullrom_2.png&#34; width=&#34;700&#34; height=&#34;180&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;https://bergerdata.github.io/competition-docs/competition-docs/docs/reference/content-types/question_dropdown/dropdown_hu451139ed022d9492ba13d72bb0749a07_126399_700x700_fit_catmullrom_2.png&#34; width=&#34;700&#34; height=&#34;180&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -53,7 +53,7 @@
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 710px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;competition-docs/competition-docs/docs/reference/content-types/question_dropdown/dropdown_author_hud9f07bc7d81af47ee3deb62c89f8ffe9_222909_700x700_fit_catmullrom_2.png&#34; width=&#34;700&#34; height=&#34;531&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;https://bergerdata.github.io/competition-docs/competition-docs/docs/reference/content-types/question_dropdown/dropdown_author_hud9f07bc7d81af47ee3deb62c89f8ffe9_222909_700x700_fit_catmullrom_2.png&#34; width=&#34;700&#34; height=&#34;531&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -80,10 +80,10 @@
     
     <item>
       <title>Docs: Question: Multiple Choice</title>
-      <link>competition-docs/docs/reference/content-types/question_multiplechoice/</link>
+      <link>https://bergerdata.github.io/competition-docs/docs/reference/content-types/question_multiplechoice/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>competition-docs/docs/reference/content-types/question_multiplechoice/</guid>
+      <guid>https://bergerdata.github.io/competition-docs/docs/reference/content-types/question_multiplechoice/</guid>
       <description>
         
         
@@ -96,7 +96,7 @@
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 710px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;competition-docs/competition-docs/docs/reference/content-types/question_multiplechoice/multiplechoice_hu43159355d1f58d390e72e9eb743bf17c_99335_700x450_fit_catmullrom_2.png&#34; width=&#34;700&#34; height=&#34;232&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;https://bergerdata.github.io/competition-docs/competition-docs/docs/reference/content-types/question_multiplechoice/multiplechoice_hu43159355d1f58d390e72e9eb743bf17c_99335_700x450_fit_catmullrom_2.png&#34; width=&#34;700&#34; height=&#34;232&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -113,7 +113,7 @@
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 710px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;competition-docs/competition-docs/docs/reference/content-types/question_multiplechoice/multiplechoice_author_hua0310a521adb6eafd9a81c2744bba8e4_182330_700x450_fit_catmullrom_2.png&#34; width=&#34;700&#34; height=&#34;423&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;https://bergerdata.github.io/competition-docs/competition-docs/docs/reference/content-types/question_multiplechoice/multiplechoice_author_hua0310a521adb6eafd9a81c2744bba8e4_182330_700x450_fit_catmullrom_2.png&#34; width=&#34;700&#34; height=&#34;423&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
