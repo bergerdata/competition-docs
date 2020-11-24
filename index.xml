@@ -13,6 +13,26 @@
     
     
     <item>
+      <title>Blog: Update 2020-11-23</title>
+      <link>https://bergerdata.github.io/competition-docs/blog/2020/11/update-2020-11-23/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bergerdata.github.io/competition-docs/blog/2020/11/update-2020-11-23/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;bugs-fixed&#34;&gt;Bugs fixed&lt;/h2&gt;
+&lt;h2 id=&#34;features-added&#34;&gt;Features added&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dateien (Bilder/Sound) können hochgeladen werden. Details siehe Dokumentation.&lt;/li&gt;
+&lt;li&gt;Score kann anteilig eingegeben werden. Bitte einen Punkt statt Komma verwenden, z.B. &amp;ldquo;0.5&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Score wird in der &amp;ldquo;Authoring&amp;rdquo; Ansicht angezeigt (grünes label)&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Blog: Update 2020-11-18</title>
       <link>https://bergerdata.github.io/competition-docs/blog/2020/11/update-2020-11-18/</link>
       <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>

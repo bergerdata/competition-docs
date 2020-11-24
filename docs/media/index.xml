@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team Competition – Media Management</title>
+    <link>https://bergerdata.github.io/competition-docs/docs/media/</link>
+    <description>Recent content in Media Management on Team Competition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://bergerdata.github.io/competition-docs/docs/media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
