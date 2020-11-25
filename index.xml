@@ -33,6 +33,30 @@
     </item>
     
     <item>
+      <title>Blog: Update 2020-11-23</title>
+      <link>https://bergerdata.github.io/competition-docs/blog/2020/11/update-2020-11-23/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bergerdata.github.io/competition-docs/blog/2020/11/update-2020-11-23/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;bugs-fixed&#34;&gt;Bugs fixed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Problem beim löschen von Antworten behoben&lt;/li&gt;
+&lt;li&gt;Problem beim sortieren behoben. Es kann bei bestehenden Contents noch nötig sein &lt;strong&gt;sehr  oft&lt;/strong&gt; den sortier-button zu betätigigen bis sich etwas ander sortierung ändert. Bein neuen Contents ist dies nicht mehr der Fall.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;features-added&#34;&gt;Features added&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Contents: Youtube Videos können nun direkt angezeigt werden, dafür im Feld &amp;ldquo;Youtube Video ID&amp;rdquo; &lt;strong&gt;nur&lt;/strong&gt; die Youtube-Video-Id eingeben. Die Youtube Video Id ist eine kurze Zeichenkette aus Zahlen und Buchstaben - i.d.R. folgend auf &amp;ldquo;v=&amp;rdquo; in einem Youtube-Link. Beispiel: Beim Youtube-Link &lt;a href=&#34;https://www.youtube.com/watch?v=Po8e82W2ryg&#34;&gt;https://www.youtube.com/watch?v=Po8e82W2ryg&lt;/a&gt; ist die Youtube-Video-Id &amp;ldquo;Po8e82W2ryg&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Contents: Link Position kann gewählt werden (über dem Text oder unter dem Text)&lt;/li&gt;
+&lt;li&gt;Answers: Können direkt über in der Author-Ansicht gelöscht werden (kleiner Papierkorb rechts)&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Blog: Update 2020-11-18</title>
       <link>https://bergerdata.github.io/competition-docs/blog/2020/11/update-2020-11-18/</link>
       <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
