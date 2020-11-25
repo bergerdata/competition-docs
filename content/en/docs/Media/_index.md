@@ -13,7 +13,7 @@ description: >
 
 ## Aufbau
 
-Dateien (Bilder/Sounds) werden zentral in der Mediaverwaltung hochgeladen und bearbeitet. In einem weiteren Schritt werden diese Medien dann mit Contents (Fragen/Antworten) verknüpft. Auf diese Weise können z.B. mehrfach (in verschiedenen Fragen) verwendet werden. 
+Dateien (Bilder/Sounds) werden zentral in der Mediaverwaltung hochgeladen und bearbeitet. In einem weiteren Schritt werden diese Medien dann mit Contents (Fragen/Antworten) verknüpft. Auf diese Weise können Medien z.B. mehrfach (in verschiedenen Fragen) verwendet werden. 
 
 Das hinzufügen von bildern zu einer Frage geschieht also meist in zwei schritten:
 
