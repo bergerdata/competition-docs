@@ -14,6 +14,34 @@
     
     
     <item>
+      <title>Blog: Update 2020-11-30</title>
+      <link>https://bergerdata.github.io/competition-docs/blog/2020/11/update-2020-11-30/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bergerdata.github.io/competition-docs/blog/2020/11/update-2020-11-30/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;bugs-fixed&#34;&gt;Bugs fixed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Problem beim Sortieren (erneut) behoben&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;features-added&#34;&gt;Features added&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Sidebar: Buttons zum editieren von Competitions, Level, Pages hinzugefügt&lt;/li&gt;
+&lt;li&gt;Pages: Pages können dupliziert werden. Der &amp;ldquo;Duplizieren&amp;rdquo;-Button ist in der Listenansicht der Pages sichtbar:
+&lt;ul&gt;
+&lt;li&gt;Klick auf das &amp;ldquo;Stift-Symbol&amp;rdquo; links in der Sidebar bei den Pages&lt;/li&gt;
+&lt;li&gt;In der Liste der Pages den &amp;ldquo;Duplizieren&amp;rdquo; Button klicken&lt;/li&gt;
+&lt;li&gt;Die kopierte Page enthält im Titel &amp;ldquo;Copy&amp;rdquo; - dies kann über &amp;ldquo;Edit&amp;rdquo; geändert werden. Dort kann auch die Page in ein anderes Level verschoben werden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Blog: Update 2020-11-24</title>
       <link>https://bergerdata.github.io/competition-docs/blog/2020/11/update-2020-11-24/</link>
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
