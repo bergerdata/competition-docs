@@ -15,7 +15,7 @@ description: >
 
 Dateien (Bilder/Sounds) werden zentral in der Mediaverwaltung hochgeladen und bearbeitet. In einem weiteren Schritt werden diese Medien dann mit Contents (Fragen/Antworten) verknüpft. Auf diese Weise können Medien z.B. mehrfach (in verschiedenen Fragen) verwendet werden. 
 
-Das hinzufügen von bildern zu einer Frage geschieht also meist in zwei schritten:
+Das Hinzufügen von bildern zu einer Frage geschieht also meist in zwei schritten:
 
 1. Hochladen in der Mediaverwaltung
 2. Verknüpfen beim Content
@@ -31,7 +31,7 @@ Die Mediaverwaltung befindet sich oben im Menü unter "Media".
 
 Über den Button "Create New" wird eine neue Datei angelegt. Im nächsten Fenster wählt man beim Feld "File" die Datei aus welche man hochladen möchte.
  
- An dieser Stelle ist es hilfreich zur Datei auch noch einen Titel anzugeben, das erleichtert das spätere wiederfinden beim verknüpfen.
+ An dieser Stelle ist es hilfreich zur Datei auch noch einen Titel anzugeben, das erleichtert das spätere wiederfinden beim Verknüpfen.
 
 ## Medien verknüpfen
 

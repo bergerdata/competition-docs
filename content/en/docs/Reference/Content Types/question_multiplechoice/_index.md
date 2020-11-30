@@ -28,5 +28,5 @@ description: >
 
 - Title: Titel der Antwort
 - Details: Detailtext zur Antwort
-- Correct?: Markieren wenn es die richtige Antwort ist
+- Correct?: Markieren, wenn es die richtige Antwort ist
 - Score: Punktzahl die vergeben wird bei gewählter Antwort 
