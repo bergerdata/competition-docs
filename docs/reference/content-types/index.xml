@@ -23,7 +23,7 @@
         
         
         &lt;h2 id=&#34;beschreibung&#34;&gt;Beschreibung&lt;/h2&gt;
-&lt;p&gt;In einen Text lassen sich beliebig viele Dropdowns mit Antwortmöglichkeiten unterbringen. Der Teilnehmer muss die richtigen Wörter mittels der Dropdows wählen.&lt;/p&gt;
+&lt;p&gt;In einen Text lassen sich beliebig viele Dropdowns mit Antwortmöglichkeiten unterbringen. Der Teilnehmer muss die richtigen Wörter mittels der Dropdowns wählen.&lt;/p&gt;
 &lt;h3 id=&#34;vorschau&#34;&gt;Vorschau&lt;/h3&gt;
 
 
@@ -44,7 +44,7 @@
 &lt;h2 id=&#34;aufbau&#34;&gt;Aufbau&lt;/h2&gt;
 &lt;p&gt;An den Stellen im Content-Text wo die Dropdowns erscheinen sollen, müssen Platzhalter mit eckigen Klammern &amp;ldquo;[NAME]&amp;rdquo; vergeben werden.&lt;/p&gt;
 &lt;p&gt;Genau wie bei Multiple-Choice müssen alle Antwortmöglichkeiten als &amp;ldquo;Answers&amp;rdquo; angelegt werden. Da es im Text mehrere Platzhalter geben kann, muss dessen zugehörigkeit über das Feld &amp;ldquo;Collection&amp;rdquo; bei der Antwort festgelegt werden.&lt;/p&gt;
-&lt;p&gt;In Beipiel gibt es 2 Platzhalter für Dropdowns: &lt;strong&gt;[A]&lt;/strong&gt; und &lt;strong&gt;[Jahr]&lt;/strong&gt;. Der Name des Platzhalters darf beliebig sein - er muss nur mit dem Namen der &amp;ldquo;Collection&amp;rdquo; der Antwort übereinstimmen.&lt;/p&gt;
+&lt;p&gt;In Beispiel gibt es 2 Platzhalter für Dropdowns: &lt;strong&gt;[A]&lt;/strong&gt; und &lt;strong&gt;[Jahr]&lt;/strong&gt;. Der Name des Platzhalters darf beliebig sein - er muss nur mit dem Namen der &amp;ldquo;Collection&amp;rdquo; der Antwort übereinstimmen.&lt;/p&gt;
 
 
 
@@ -70,8 +70,8 @@
 &lt;ul&gt;
 &lt;li&gt;Title: Titel der Antwort&lt;/li&gt;
 &lt;li&gt;Details: Detailtext zur Antwort&lt;/li&gt;
-&lt;li&gt;Correct?: Markieren wenn es die richtige Antwort ist&lt;/li&gt;
-&lt;li&gt;Collection: Verknüft die Antwort mit dem jeweiligen Platzhalter im Text&lt;/li&gt;
+&lt;li&gt;Correct?: Markieren, wenn es die richtige Antwort ist&lt;/li&gt;
+&lt;li&gt;Collection: Verknüpft die Antwort mit dem jeweiligen Platzhalter im Text&lt;/li&gt;
 &lt;li&gt;Score: Punktzahl die vergeben wird bei gewählter Antwort&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -130,7 +130,7 @@
 &lt;ul&gt;
 &lt;li&gt;Title: Titel der Antwort&lt;/li&gt;
 &lt;li&gt;Details: Detailtext zur Antwort&lt;/li&gt;
-&lt;li&gt;Correct?: Markieren wenn es die richtige Antwort ist&lt;/li&gt;
+&lt;li&gt;Correct?: Markieren, wenn es die richtige Antwort ist&lt;/li&gt;
 &lt;li&gt;Score: Punktzahl die vergeben wird bei gewählter Antwort&lt;/li&gt;
 &lt;/ul&gt;
 

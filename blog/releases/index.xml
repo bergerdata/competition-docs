@@ -52,8 +52,8 @@
         
         &lt;h2 id=&#34;bugs-fixed&#34;&gt;Bugs fixed&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Problem beim löschen von Antworten behoben&lt;/li&gt;
-&lt;li&gt;Problem beim sortieren behoben. Es kann bei bestehenden Contents noch nötig sein &lt;strong&gt;sehr  oft&lt;/strong&gt; den sortier-button zu betätigen bis sich etwas ander sortierung ändert. Bein neuen Contents ist dies nicht mehr der Fall.&lt;/li&gt;
+&lt;li&gt;Problem beim Löschen von Antworten behoben&lt;/li&gt;
+&lt;li&gt;Problem beim Sortieren behoben. Bei bestehenden Contents kann es noch nötig sein, &lt;strong&gt;sehr  oft&lt;/strong&gt; den Sortierbutton zu betätigen bis sich etwas ander sortierung ändert. Bein neuen Contents ist dies nicht mehr der Fall.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;features-added&#34;&gt;Features added&lt;/h2&gt;
 &lt;ul&gt;
@@ -96,7 +96,7 @@
         
         &lt;h2 id=&#34;bugs-fixed&#34;&gt;Bugs fixed&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Fehler beim löschen behoben&lt;/li&gt;
+&lt;li&gt;Fehler beim Löschen behoben&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;features-added&#34;&gt;Features added&lt;/h2&gt;
 &lt;ul&gt;
